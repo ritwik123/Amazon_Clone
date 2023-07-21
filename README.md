@@ -1,12 +1,6 @@
 # Project: Amazon Clone
 
-This is an Amazon Clone built with ReactJs. A user can shop for items and proceed to checking them out. Payment system is conducted through Stripe Payment services.
-
-![screenshot](./src/images/homepage.png)<br />
-
-![screenshot](./src/images/homepage2.png)<br />
-
-![screenshot](./src/images/homepage3.png)
+This is an Amazon Clone built with ReactJs. A user can shop for items and proceed to check them out. The payment system is conducted through Stripe Payment services.
 
 ## Built With
 
@@ -25,13 +19,13 @@ This is an Amazon Clone built with ReactJs. A user can shop for items and procee
 
 ## Getting Started
 
-Open your terminal or text editor and use next command...
+Open your terminal or text editor and use the following command...
 
-        git clone https://github.com/emmanuelkamala/amazon-clone.git
+        git clone https://github.com/ritwik123/Amazon_Clone.git
 
-        cd amazon-clone
+        cd Amazon_Clone
 
-        Run 'npm install' command to install package dependencies.
+        Run the 'npm install' command to install package dependencies.
 
 ## Run the index file
 
@@ -41,28 +35,4 @@ Open your terminal or text editor and use next command...
 > Then open the browser and enter this link:
 http://localhost:3000
 
-After if you want to do any changes please create new branch, then create a pull request.<br />
-Happy coding!
 
-
-## Author
-
-👤 **Author1**
-
-- Github: [emmanuelkamala](https://github.com/emmanuelkamala)
-- Twitter: [ejkamala](https://twitter.com/ejkamala)
-- Linkedin: [emmanuelkamala](https://linkedin.com/in/emmanuelkamala)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
